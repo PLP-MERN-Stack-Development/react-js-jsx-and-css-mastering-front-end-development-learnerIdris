@@ -27,6 +27,9 @@ Then open the URL shown by Vite (usually http://localhost:5173).
 - `src/context` - Theme context
 - `src/services` - API helper functions
 
+- ## Live Url
+- https://taskmanagerapp-two.vercel.app/
+
 ## Next steps / suggestions
 
 - Add form validation and better accessibility
